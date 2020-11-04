@@ -3,7 +3,7 @@ os: linux
 
 files:
         - source: /
-          destination: /home/ubuntu/MinimunTemp
+          destination: /home/ubuntu/MinimumTemp
 
 permissions:
         - object: start.sh
